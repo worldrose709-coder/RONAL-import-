@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Ronal Imports</string>
+    <string name="brand_title">RONAL IMPORTS</string>
+    <string name="brand_subtitle">TRJ UK LUXURY CONCIERGE</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_catalog">Catalog</string>
+    <string name="nav_vip">VIP</string>
+    <string name="nav_studio">Studio</string>
+    <string name="nav_checkout">Checkout</string>
+    <string name="offline_mode_label">Offline Mode</string>
+    <string name="uk_location_badge">United Kingdom · Mayfair, London</string>
+    <string name="whatsapp_default_number">0719362947</string>
+    <string name="recaptcha_title">Security Verification</string>
+    <string name="recaptcha_prompt">I\'m not a robot</string>
+    <string name="checkout_confirm">Confirm &amp; Send WhatsApp Bill</string>
+    <string name="ai_designer_title">AI Theme Designer</string>
+    <string name="music_player_title">Atelier Sound</string>
+</resources>
